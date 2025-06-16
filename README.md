@@ -1,4 +1,4 @@
-Processed protocol and spectral data available at https://doi.org/10.5281/zenodo.15678283.  
+Partially processed protocol and spectral data available at https://doi.org/10.5281/zenodo.15678283.  
 
 *isingFuncts.py*: essential functions for analysis with the Ising function. Most functions are readily generalized to arbitrary state graphs 
 
